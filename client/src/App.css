@@ -1,0 +1,40 @@
+.uploadDiv{
+  /* display: flex; */
+  padding: auto;
+  margin: auto;
+  align-items: center;
+  flex-direction: column;
+}
+
+.product-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: row; */
+}
+
+.video-heading{
+align-items: center;
+}
+
+.product-card {
+  display: flex;
+  height: 300px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: tomato;
+  flex-direction: column;
+  color: black;
+  border: 1px solid gray;
+}
+
+.bg-dodgerblue {
+  background-color: dodgerblue;
+}
+
+.bg-tomato {
+  background-color: tomato;
+}
