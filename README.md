@@ -16,3 +16,11 @@ Backend
 it is json just print it
 - Using simple NodeJS & API gateway expose endpoints through which you will return
 list of uploaded videos on S3 & along with its details (like link of ur and other)
+
+
+
+
+
+For Run THE PROJECT:
+STEP1: 
+Open two terminals one for Backend and another for Client and RUN THE COMMAND NPM START. 
